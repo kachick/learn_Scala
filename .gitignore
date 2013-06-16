@@ -1,6 +1,9 @@
 # editor
 *~
 
+# MacOSX
+.DS_Store
+
 # see also test/files/.gitignore
 /.gitignore
 /test/files/.gitignore
