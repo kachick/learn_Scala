@@ -30,3 +30,7 @@
 # bak files produced by ./cleanup-commit
 *.bak
 
+# for sbt
+# http://scalajp.github.io/sbt-getting-started-guide-ja/directories/
+target/
+
